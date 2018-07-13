@@ -38,8 +38,8 @@ def add_colors
 ]
 
 
-puts rainbow_colors << ("green")
-puts rainbow_colors << ("blue")
+ rainbow_colors << ("green")
+ rainbow_colors << ("blue")
 end
 add_colors
 
