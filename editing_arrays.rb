@@ -38,7 +38,7 @@ def add_colors
 ]
 puts rainbow_colors << ("green")
 puts rainbow_colors << ("blue")
-# end
+end
 add_colors
 
 
