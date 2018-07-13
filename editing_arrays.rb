@@ -37,7 +37,6 @@ def add_colors
   "light yellow"
 ]
 
-
  rainbow_colors << ("green")
  rainbow_colors << ("blue")
 end
